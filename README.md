@@ -59,7 +59,6 @@ I am actively preparing for a **junior frontend developer role**, focusing on:
 
 <p align="center">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓<br/>
-┃ 🐙 GitHub    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃ <a href="https://github.com/arrias24" target="_blank">arrias24</a> <br/>
 ┃ 💼 LinkedIn  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃ <a href="https://www.linkedin.com/in/andres-arrias/" target="_blank">andres-arrias</a> <br/>
 ┃ ✉️ Email     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃ <a href="mailto:andresarriasc@gmail.com">andresarriasc@gmail.com</a> <br/>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
